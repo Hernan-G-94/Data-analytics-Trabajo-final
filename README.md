@@ -1,7 +1,7 @@
-# 📊 Laboratorio II: Análisis de Datos con Power BI
+# 📊 Trabajo final: Presentación dashboard Análisis de Datos con Power BI
 
 ## 📝 Descripción del Proyecto
-Este proyecto consiste en un informe interactivo desarrollado en **Microsoft Power BI** como parte del "Laboratorio II". El objetivo principal es transformar datos crudos en información procesable para la toma de decisiones.
+Este proyecto consiste en un informe interactivo desarrollado en **Microsoft Power BI** como parte del "Trabajo final" del Informatorio. El objetivo principal es mostrar un trabajo completo cumpliendo con las consignas y dejando un mensaje claro para la toma de decisiones.
 
 El reporte permite visualizar tendencias, patrones y métricas clave (KPIs) relacionadas con **Análisis de ventas para E-Commerce**.
 
@@ -12,6 +12,7 @@ El reporte permite visualizar tendencias, patrones y métricas clave (KPIs) rela
     * **¿Cuál es el producto más vendido?**
     * **¿En qué región se compra más?**
     * **¿Cuál es el medio de pago mas utilizado?**
+* Entregar un trabajo con un diseño agradable y ordenado.
 
 ## 🛠️ Tecnologías Utilizadas
 * **Microsoft Power BI Desktop:** Para la ingesta, modelado y visualización.
@@ -42,7 +43,7 @@ El informe incluye las siguientes páginas y gráficos destacados:
 
 
 ## 🚀 Cómo utilizar este archivo
-1.  Descarga el archivo `Laboratorio II.pbix`.
+1.  Descarga el archivo `Data analytics-Trabajo final.pbix`.
 2.  Asegúrate de tener instalado **Microsoft Power BI Desktop**.
 3.  Abre el archivo.
 4.  Interactúa con los filtros (Slicers) ubicados en **la barra lateral izquierda** para segmentar la información.
